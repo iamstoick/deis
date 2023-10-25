@@ -1,4 +1,4 @@
-FROM alpine:3.1
+FROM alpine:3.16.7
 
 COPY bin /app/bin/
 WORKDIR /app/bin
