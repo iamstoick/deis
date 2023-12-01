@@ -1,4 +1,4 @@
-FROM alpine:3.1
+FROM alpine:3.18.5
 
 # install common packages
 RUN apk add --update-cache \
