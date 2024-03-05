@@ -4,7 +4,7 @@
 # one requirements file. Please keep it up-to-date with the root
 # requirements.txt and dev_requirements.txt files.
 #
-Django==1.6.11
+Django==3.2.25
 django-cors-headers==1.0.0
 # required for south migrations
 django-fsm==2.2.0
