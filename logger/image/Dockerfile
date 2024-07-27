@@ -1,4 +1,4 @@
-FROM alpine:3.1
+FROM alpine:3.19.3
 
 ENTRYPOINT ["/bin/logger"]
 CMD ["--enable-publish"]
