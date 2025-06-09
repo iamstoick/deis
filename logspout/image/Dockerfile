@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.22.0
 
 ENV DOCKER_HOST unix:///tmp/docker.sock
 ENV ROUTESPATH /tmp
