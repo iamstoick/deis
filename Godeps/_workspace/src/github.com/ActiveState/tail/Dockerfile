@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:24.04
 
 RUN apt-get -qy update
 RUN apt-get -y install golang-go
