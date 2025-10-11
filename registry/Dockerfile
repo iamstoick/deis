@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.22.2
 
 # install common packages
 RUN apk add --no-cache curl bash sudo
