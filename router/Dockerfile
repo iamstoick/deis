@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.23.2
 
 # install common packages
 RUN apk add --no-cache \
